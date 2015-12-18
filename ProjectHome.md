@@ -1,0 +1,1 @@
+The project contains all entries to the 2012 Grid-Based Path Planning Competition. (http://movingai.com/GPPC/)
